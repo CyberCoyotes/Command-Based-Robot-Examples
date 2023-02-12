@@ -1,3 +1,5 @@
-# 2023-Example-CommandRobot
+# Command-based Robot Example
  
-A Java, command based robot from the VS Code examples for FRC.
+FRC Command-based robot. This example is from the VS Code examples. 
+
+Updated for 2023
